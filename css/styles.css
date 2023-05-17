@@ -176,6 +176,13 @@ body {
     font-weight: 900;
 }
 
+.section-headings h1.software {
+    margin-top: 10rem;
+    text-transform: uppercase;
+    font-size: 6rem;
+    font-weight: 900;
+}
+
 .heading-stroke-only {
     color: transparent;
     -webkit-text-stroke-width: 1px;
